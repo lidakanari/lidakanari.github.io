@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic page of Lida Kanari, University of Oxford"
+title: "Lida Kanari, University of Oxford"
 author_profile: true
 redirect_from: 
   - /about/
